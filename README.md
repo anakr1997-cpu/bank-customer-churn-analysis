@@ -45,8 +45,5 @@ Completed a Python-based data preparation and exploratory analysis project exami
 
 ## Data Source
 
-Educational bank customer churn dataset used for a guided analytics project. The source dataset is not redistributed in this repository pending confirmation of sharing permissions.
+Dataset provided by Maven Analytics as part of a guided educational analytics project. 
 
-## Project Scope
-
-This project focuses on data cleaning, exploratory analysis, and feature engineering. It does not include training or evaluating a churn prediction model.
